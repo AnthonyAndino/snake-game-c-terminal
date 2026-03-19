@@ -1,2 +1,17 @@
-# snake-game-c-terminal
-Snake game built in C for the console. Features real-time movement, growing tail, score system, highscore persistence using files, and collision detection.
+# Snake Game in C
+
+Simple snake game developed in C using console.
+
+## Features
+- Movement with WASD
+- Food system
+- Score and highscore
+- Snake grows
+- Collision detection
+
+## How to run
+Compile with:
+gcc snake.c -o snake
+
+Run:
+./snake
